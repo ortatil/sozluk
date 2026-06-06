@@ -1,31 +1,3 @@
-# Ortatil Sözlügü
----
-
-## Clusters
-
-Bu yerda sözlar özagiga qarab guruhlangan. Bu `json` formatidagi fayllar Ortatil sözlarini aniqlaşdagi asos poydevor hisoblanadi. Bu fayllardan foydalanib, tuzatilgan, saralangan `src/` jildidagi `json` fayllar yaratiladi. Faqat öqiş uçun.
-
-## Word List
-
-Bu WordNet'dan olingan manolarning asl röyhati. Faqat öqiş uçun.
-
-## Word Pages
-
-Bu `markdown` formatidagi har bir WordNet kalimasining Ortatil kalimasiga aylaniş tafsilotidir. Bu avtomat ravişda hosil qilingan bölib, tahrir uçun möljallanmagan. Faqat öqiş uçun.
-
-## `src/` jildi
-
-Bu jildda boşqa jilddagi fayllardan foydalangan holda, yangi, tuzatilgan, va saralangan `json` malumot fayllari yaratiladi. Saralaş quyidagi tamoyillarga asoslanadi:
-
-- Turkça sözlar asos, yani kalit söz, qilib olinadi. Agar biron mazmun turk tilida topilmasa, unda öşa mazmun mavjud bölgan tildagi söz işlatiladi.
-- Har bir `json` faylidan kamida bir dona Ortatil sözi çiqişi şart.
-- Sinonimlar kalit sözning aniq muqobili bölişi kerak.
-- fayl nomidagi Turkça sözlar ASCII-laştiriladi: ç -> c, ö -> o, va hk.
-
-
-### Örnak Fayl
-
-```json
 {
     "pos": "noun",
     "eng": "child",
@@ -72,4 +44,3 @@ Bu jildda boşqa jilddagi fayllardan foydalangan holda, yangi, tuzatilgan, va sa
         }
     ]
 }
-```
